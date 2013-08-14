@@ -1,0 +1,8 @@
+{
+    "name": "robbixc/subrip-file-parser",
+    "license": "BSD",
+    "type": "project",
+    "description": "A library for SubRip (srt) files manipulation",
+    "autoload": {
+        "psr-0": { "": "src/" }
+}
