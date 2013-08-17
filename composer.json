@@ -4,6 +4,6 @@
     "type": "project",
     "description": "A library for SubRip (srt) files manipulation",
     "autoload": {
-        "psr-0": { "": "src/" }
+        "psr-0": { "SrtParser": "src/" }
     }
 }
